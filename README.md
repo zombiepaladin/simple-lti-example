@@ -1,6 +1,6 @@
 # Simple LTI Example
 
-This program implements the IMS LTI 1.1 standard [see developer's guide](https://www.imsglobal.org/specs/ltiv1p1/implementation-guide) to act as a Learning Tool with a Learning Management System like Canvas, Blackboard, or Moodle.
+This program implements the [IMS LTI 1.1 standard](https://www.imsglobal.org/specs/ltiv1p1/implementation-guide) to act as a Learning Tool with a Learning Management System like Canvas, Blackboard, or Moodle.
 
 ## Getting Started
 
